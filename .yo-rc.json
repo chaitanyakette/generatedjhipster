@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.demo.myapp"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "monolith",
+    "baseName": "demo",
+    "packageName": "com.demo.myapp",
+    "packageFolder": "com/demo/myapp",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": "spring-websocket",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "elasticsearch",
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "ODc1YTAwZDQ3YzA4MmY2NzgzZDk0NGI3MWYyYmMxNGRlM2ZjNTJmMzI4NWVkZGZkMmFhZmM2YTczOGMyZDUyOGRkN2VhN2I3NWNkZWQ0ZjhmODY2OWExMDM3MWM5YzhhMjcyOTg1M2E4NDFmMmNjMzY4ZjU2YmVhMzNlYjg5NWQ=",
+    "clientFramework": "angularX",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
