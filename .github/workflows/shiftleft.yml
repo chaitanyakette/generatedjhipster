@@ -4,7 +4,7 @@
 name: ShiftLeft
 
 on:
-  pull_request:
+ push:
 
 jobs:
   NextGen-Static-Analysis:
