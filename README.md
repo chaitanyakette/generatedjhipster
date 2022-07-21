@@ -10,7 +10,7 @@ To start your application in the dev profile, simply run:
 
 For further instructions on how to develop with JHipster, have a look at [Using JHipster in development][].
 
-### Using angular-cli
+## Using angular-cli
 
 You can also use [Angular CLI][] to generate some custom client code.
 
