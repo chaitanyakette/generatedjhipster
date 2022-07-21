@@ -1,7 +1,7 @@
 # demo
 This application was generated using JHipster 5.7.0, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v5.7.0](https://www.jhipster.tech/documentation-archive/v5.7.0).
 
-## Development
+# Development
 
 To start your application in the dev profile, simply run:
 
